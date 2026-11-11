@@ -1,0 +1,6 @@
+{
+  "name": "Misal Master, Kolhapur",
+  "description": "Authentic Kolhapuri Misal Pav & Matka Dum Misal restaurant on NH48 Highway in Toap, Kolhapur. Explore menu, customize your misal, order takeaway, and get directions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
